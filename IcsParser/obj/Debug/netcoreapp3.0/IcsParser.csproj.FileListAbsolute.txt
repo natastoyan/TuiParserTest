@@ -1,0 +1,17 @@
+C:\Users\nata\source\repos\TuiParserTest\IcsParser\obj\Debug\netcoreapp3.0\IcsParser.csprojAssemblyReference.cache
+C:\Users\nata\source\repos\TuiParserTest\IcsParser\obj\Debug\netcoreapp3.0\IcsParser.csproj.CoreCompileInputs.cache
+C:\Users\nata\source\repos\TuiParserTest\IcsParser\obj\Debug\netcoreapp3.0\IcsParser.AssemblyInfoInputs.cache
+C:\Users\nata\source\repos\TuiParserTest\IcsParser\obj\Debug\netcoreapp3.0\IcsParser.AssemblyInfo.cs
+C:\Users\nata\source\repos\TuiParserTest\IcsParser\bin\Debug\netcoreapp3.0\IcsParser.exe
+C:\Users\nata\source\repos\TuiParserTest\IcsParser\bin\Debug\netcoreapp3.0\IcsParser.deps.json
+C:\Users\nata\source\repos\TuiParserTest\IcsParser\bin\Debug\netcoreapp3.0\IcsParser.runtimeconfig.json
+C:\Users\nata\source\repos\TuiParserTest\IcsParser\bin\Debug\netcoreapp3.0\IcsParser.runtimeconfig.dev.json
+C:\Users\nata\source\repos\TuiParserTest\IcsParser\bin\Debug\netcoreapp3.0\IcsParser.dll
+C:\Users\nata\source\repos\TuiParserTest\IcsParser\bin\Debug\netcoreapp3.0\IcsParser.pdb
+C:\Users\nata\source\repos\TuiParserTest\IcsParser\obj\Debug\netcoreapp3.0\IcsParser.dll
+C:\Users\nata\source\repos\TuiParserTest\IcsParser\obj\Debug\netcoreapp3.0\IcsParser.pdb
+C:\Users\nata\source\repos\TuiParserTest\IcsParser\bin\Debug\netcoreapp3.0\HtmlAgilityPack.dll
+C:\Users\nata\source\repos\TuiParserTest\IcsParser\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\nata\source\repos\TuiParserTest\IcsParser\obj\Debug\netcoreapp3.0\IcsParser.csproj.CopyComplete
+C:\Users\nata\source\repos\TuiParserTest\IcsParser\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\nata\source\repos\TuiParserTest\IcsParser\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll

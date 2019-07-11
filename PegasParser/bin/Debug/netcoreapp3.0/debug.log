@@ -1,0 +1,17 @@
+[0629/205004.135:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0629/205004.153:ERROR:exception_snapshot_win.cc(98)] thread ID 17468 not found in process
+[0629/231208.593:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0629/231208.719:ERROR:exception_snapshot_win.cc(98)] thread ID 18772 not found in process
+[0709/145411.417:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0709/145411.440:ERROR:exception_snapshot_win.cc(98)] thread ID 7728 not found in process
+[0709/151732.674:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0709/151732.716:ERROR:exception_snapshot_win.cc(98)] thread ID 14848 not found in process
+[0709/151737.682:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0709/151737.683:ERROR:exception_snapshot_win.cc(98)] thread ID 8680 not found in process
+[0710/131727.584:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0710/131727.814:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0710/131727.814:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0710/131727.814:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0710/131727.814:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0710/131727.814:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0710/131727.925:ERROR:exception_snapshot_win.cc(98)] thread ID 9384 not found in process

@@ -1,0 +1,16 @@
+C:\Users\nata\source\repos\seleniumTest\seleniumTest\bin\Debug\netcoreapp3.0\seleniumTest.exe
+C:\Users\nata\source\repos\seleniumTest\seleniumTest\obj\Debug\netcoreapp3.0\seleniumTest.csprojAssemblyReference.cache
+C:\Users\nata\source\repos\seleniumTest\seleniumTest\obj\Debug\netcoreapp3.0\seleniumTest.csproj.CoreCompileInputs.cache
+C:\Users\nata\source\repos\seleniumTest\seleniumTest\obj\Debug\netcoreapp3.0\seleniumTest.AssemblyInfoInputs.cache
+C:\Users\nata\source\repos\seleniumTest\seleniumTest\obj\Debug\netcoreapp3.0\seleniumTest.AssemblyInfo.cs
+C:\Users\nata\source\repos\seleniumTest\seleniumTest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\nata\source\repos\seleniumTest\seleniumTest\bin\Debug\netcoreapp3.0\WebDriver.dll
+C:\Users\nata\source\repos\seleniumTest\seleniumTest\obj\Debug\netcoreapp3.0\seleniumTest.csproj.CopyComplete
+C:\Users\nata\source\repos\seleniumTest\seleniumTest\bin\Debug\netcoreapp3.0\seleniumTest.deps.json
+C:\Users\nata\source\repos\seleniumTest\seleniumTest\bin\Debug\netcoreapp3.0\seleniumTest.runtimeconfig.json
+C:\Users\nata\source\repos\seleniumTest\seleniumTest\bin\Debug\netcoreapp3.0\seleniumTest.runtimeconfig.dev.json
+C:\Users\nata\source\repos\seleniumTest\seleniumTest\bin\Debug\netcoreapp3.0\seleniumTest.dll
+C:\Users\nata\source\repos\seleniumTest\seleniumTest\bin\Debug\netcoreapp3.0\seleniumTest.pdb
+C:\Users\nata\source\repos\seleniumTest\seleniumTest\bin\Debug\netcoreapp3.0\WebDriver.Support.dll
+C:\Users\nata\source\repos\seleniumTest\seleniumTest\obj\Debug\netcoreapp3.0\seleniumTest.dll
+C:\Users\nata\source\repos\seleniumTest\seleniumTest\obj\Debug\netcoreapp3.0\seleniumTest.pdb
